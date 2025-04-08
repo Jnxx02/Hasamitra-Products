@@ -2,51 +2,76 @@
   "items": [
     {
       "type": "produk",
-      "category": "Tabungan",
-      "name": "Tabungan Simpel",
-      "description": "Tabungan untuk pelajar dengan persyaratan mudah.",
+      "name": "Tabungan Si Mitra",
+      "description": "Produk Tabungan Si Mitra adalah tabungan yang dipersembahkan bagi masyarakat dan mitra usaha dalam mewujudkan kemudahan bertransaksi dengan mutu pelayanan yang baik sehingga dapat memberikan keuntungan yang maksimal.",
       "features": [
-        "Bebas biaya administrasi",
-        "Setoran awal ringan",
-        "Buku tabungan & kartu ATM"
+        "Setoran awal: Rp 50.000,-",
+        "Setoran selanjutnya: Minimal Rp 5.000,-",
+        "Saldo Minimal: Rp 10.000,-",
+        "Suku Bunga: Tabungan"
       ],
-      "link": "https://bankhasamitra.co.id/tabungan-simpel"
+      "link": "https://hasamitra.com/simitra"
     },
     {
       "type": "produk",
-      "category": "Kredit",
-      "name": "Kredit Mikro",
-      "description": "Fasilitas kredit untuk pengusaha mikro dan kecil.",
+      "name": "Tabungan SIMPEL (Simpanan Pelajar)",
+      "description": "Tabungan anak untuk pelajar yang bertujuan untuk edukasi keuangan dan budaya menabung sejak dini.",
       "features": [
-        "Proses cepat",
-        "Suku bunga kompetitif",
-        "Plafon sesuai kebutuhan"
+        "Setoran awal: Rp 5.000,-",
+        "Setoran selanjutnya: Minimal Rp 1.000,-",
+        "Saldo Minimal: Rp 5.000,-",
+        "Suku Bunga: Tabungan, Rp ≥ 1.000.000,-"
       ],
-      "link": "https://bankhasamitra.co.id/kredit-mikro"
+      "link": "https://hasamitra.com/simpel"
+    },
+    {
+      "type": "produk",
+      "name": "TabunganKu",
+      "description": "Tabungan untuk perorangan dengan persyaratan mudah dan ringan, untuk meningkatkan budaya menabung dan kesejahteraan.",
+      "features": [
+        "Setoran awal: Rp 10.000,-",
+        "Setoran selanjutnya: Tidak dibatasi",
+        "Saldo Minimal: Rp 10.000,-",
+        "Suku Bunga: Tabungan, Rp ≥ 50.000.000,-"
+      ],
+      "link": "https://hasamitra.com/tabunganku"
+    },
+    {
+      "type": "produk",
+      "name": "Si Deko",
+      "description": "Si Deko adalah produk deposito pada umumnya yang berbasis teknologi digital, sehingga semua layanannya dapat diakses secara online bahkan melalui smartphone.",
+      "features": [
+        "Bebas biaya administrasi bulanan",
+        "Deposito online ini tidak menggunakan bilyet deposito. BPR akan menerbitkan Confirmation Letter yang dikirim via e-mail ke nasabah sebagai bukti penempatan deposito",
+        "Dapat memilih perlakuan perpanjangan dan/atau pembayaran bunga seperti ARO (Automatic Roll Over), ARO + (ARO Pokok + Bunga), Non ARO",
+        "Dapat menggunakan Deposito Si Deko sebagai jaminan kredit (Back to Back Loan)"
+      ],
+      "link": "https://hasamitra.com/sideko"
     },
     {
       "type": "layanan",
-      "category": "Layanan Digital",
-      "name": "Mobile Banking",
-      "description": "Akses layanan perbankan melalui ponsel kapan saja.",
+      "name": "Kredit Pensiun",
+      "description": "Fasilitas kredit yang diberikan kepada para pensiunan PNS, TNI / POLRI, BUMN / BUMD  dengan tujuan pengunaan Kredit Pensiun ini dapat untuk konsumtif, investasi, atau modal kerja",
       "features": [
-        "Transfer antar bank",
-        "Cek saldo & mutasi",
-        "Pembayaran tagihan"
+        "Dicover asuransi jiwa dan/atau kredit",
+        "Bebas pengenaan penalty untuk pelunasan dipercepat",
+        "Kredit Pensiun dengan pembayaran angsuran per bulan yang dapat memenuhi kebutuhan debitur baik primer maupun sekunder",
+        "Nasabah dapat menentukan jangka waktu pelunasan sesuai dengan kemampuan"
       ],
-      "link": "https://bankhasamitra.co.id/mobile-banking"
+      "link": "https://hasamitra.com/kredit-pensiun"
     },
     {
       "type": "layanan",
-      "category": "Layanan Umum",
-      "name": "Customer Service",
-      "description": "Layanan pelanggan di seluruh kantor cabang.",
+      "name": "Hasamitra Mobile",
+      "description": "Mempermudah transaksi dan segala kebutuhan finansial Anda kapan saja dan dimana saja.",
       "features": [
-        "Pembukaan rekening",
-        "Konsultasi produk",
-        "Pengaduan layanan"
+        "Pembayaran Tagihan",
+        "Transfer dan Top Up Dana",
+        "Histori Transaksi dan Mutasi Rekening",
+        "Buka Tabungan dan Deposito",
+        "Mitracash"
       ],
-      "link": "https://bankhasamitra.co.id/kontak"
+      "link": "https://hasamitra.com/hasamitra-mobile"
     }
   ]
 }
