@@ -1,32 +1,44 @@
 {
-    "produk": [
-      {
-        "nama": "Tabungan Simpel",
-        "deskripsi": "Tabungan untuk pelajar dengan setoran ringan.",
-        "keunggulan": [
-          "Tanpa biaya administrasi bulanan",
-          "Setoran awal hanya Rp5.000"
-        ],
-        "linkInfo": "https://bankxyz.id/tabungan-simpel"
-      },
-      {
-        "nama": "Deposito Berjangka",
-        "deskripsi": "Simpan dana dalam jangka waktu tertentu dengan bunga menarik.",
-        "keunggulan": [
-          "Bunga kompetitif",
-          "Tenor fleksibel (1, 3, 6, 12 bulan)"
-        ],
-        "linkInfo": "https://bankxyz.id/deposito"
-      },
-      {
-        "nama": "Kredit Usaha Rakyat (KUR)",
-        "deskripsi": "Kredit ringan untuk mendukung UMKM.",
-        "keunggulan": [
-          "Plafon sampai Rp500 juta",
-          "Bunga subsidi pemerintah"
-        ],
-        "linkInfo": "https://bankxyz.id/kur"
-      }
-    ]
-  }
-  
+  "produk": [
+    {
+      "nama": "Tabungan Simpel",
+      "jenis": "tabungan",
+      "deskripsi": "Tabungan untuk pelajar dengan setoran ringan.",
+      "keunggulan": [
+        "Tanpa biaya administrasi bulanan",
+        "Setoran awal hanya Rp5.000"
+      ],
+      "linkInfo": "https://bankxyz.id/tabungan-simpel"
+    },
+    {
+      "nama": "Deposito Berjangka",
+      "jenis": "deposito",
+      "deskripsi": "Simpan dana dalam jangka waktu tertentu dengan bunga menarik.",
+      "keunggulan": [
+        "Bunga kompetitif",
+        "Tenor fleksibel (1, 3, 6, 12 bulan)"
+      ],
+      "linkInfo": "https://bankxyz.id/deposito"
+    },
+    {
+      "nama": "Kredit Usaha Rakyat (KUR)",
+      "jenis": "kredit",
+      "deskripsi": "Kredit ringan untuk mendukung UMKM.",
+      "keunggulan": [
+        "Plafon sampai Rp500 juta",
+        "Bunga subsidi pemerintah"
+      ],
+      "linkInfo": "https://bankxyz.id/kur"
+    },
+    {
+      "nama": "Tabungan Haji",
+      "jenis": "tabungan",
+      "deskripsi": "Tabungan untuk mempersiapkan keberangkatan ibadah haji.",
+      "keunggulan": [
+        "Setoran fleksibel",
+        "Terintegrasi dengan sistem SISKOHAT"
+      ],
+      "linkInfo": "https://bankxyz.id/tabungan-haji"
+    }
+  ]
+}
