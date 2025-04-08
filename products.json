@@ -1,44 +1,52 @@
 {
-  "produk": [
+  "items": [
     {
-      "nama": "Tabungan Simpel",
-      "jenis": "tabungan",
-      "deskripsi": "Tabungan untuk pelajar dengan setoran ringan.",
-      "keunggulan": [
-        "Tanpa biaya administrasi bulanan",
-        "Setoran awal hanya Rp5.000"
+      "type": "produk",
+      "category": "Tabungan",
+      "name": "Tabungan Simpel",
+      "description": "Tabungan untuk pelajar dengan persyaratan mudah.",
+      "features": [
+        "Bebas biaya administrasi",
+        "Setoran awal ringan",
+        "Buku tabungan & kartu ATM"
       ],
-      "linkInfo": "https://bankxyz.id/tabungan-simpel"
+      "link": "https://bankhasamitra.co.id/tabungan-simpel"
     },
     {
-      "nama": "Deposito Berjangka",
-      "jenis": "deposito",
-      "deskripsi": "Simpan dana dalam jangka waktu tertentu dengan bunga menarik.",
-      "keunggulan": [
-        "Bunga kompetitif",
-        "Tenor fleksibel (1, 3, 6, 12 bulan)"
+      "type": "produk",
+      "category": "Kredit",
+      "name": "Kredit Mikro",
+      "description": "Fasilitas kredit untuk pengusaha mikro dan kecil.",
+      "features": [
+        "Proses cepat",
+        "Suku bunga kompetitif",
+        "Plafon sesuai kebutuhan"
       ],
-      "linkInfo": "https://bankxyz.id/deposito"
+      "link": "https://bankhasamitra.co.id/kredit-mikro"
     },
     {
-      "nama": "Kredit Usaha Rakyat (KUR)",
-      "jenis": "kredit",
-      "deskripsi": "Kredit ringan untuk mendukung UMKM.",
-      "keunggulan": [
-        "Plafon sampai Rp500 juta",
-        "Bunga subsidi pemerintah"
+      "type": "layanan",
+      "category": "Layanan Digital",
+      "name": "Mobile Banking",
+      "description": "Akses layanan perbankan melalui ponsel kapan saja.",
+      "features": [
+        "Transfer antar bank",
+        "Cek saldo & mutasi",
+        "Pembayaran tagihan"
       ],
-      "linkInfo": "https://bankxyz.id/kur"
+      "link": "https://bankhasamitra.co.id/mobile-banking"
     },
     {
-      "nama": "Tabungan Haji",
-      "jenis": "tabungan",
-      "deskripsi": "Tabungan untuk mempersiapkan keberangkatan ibadah haji.",
-      "keunggulan": [
-        "Setoran fleksibel",
-        "Terintegrasi dengan sistem SISKOHAT"
+      "type": "layanan",
+      "category": "Layanan Umum",
+      "name": "Customer Service",
+      "description": "Layanan pelanggan di seluruh kantor cabang.",
+      "features": [
+        "Pembukaan rekening",
+        "Konsultasi produk",
+        "Pengaduan layanan"
       ],
-      "linkInfo": "https://bankxyz.id/tabungan-haji"
+      "link": "https://bankhasamitra.co.id/kontak"
     }
   ]
 }
