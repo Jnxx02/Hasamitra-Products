@@ -1,77 +1,37 @@
-{
-  "items": [
-    {
-      "type": "produk",
-      "name": "Tabungan Si Mitra",
-      "description": "Produk Tabungan Si Mitra adalah tabungan yang dipersembahkan bagi masyarakat dan mitra usaha dalam mewujudkan kemudahan bertransaksi dengan mutu pelayanan yang baik sehingga dapat memberikan keuntungan yang maksimal.",
-      "features": [
-        "Setoran awal: Rp 50.000,-",
-        "Setoran selanjutnya: Minimal Rp 5.000,-",
-        "Saldo Minimal: Rp 10.000,-",
-        "Suku Bunga: Tabungan"
-      ],
-      "link": "https://hasamitra.com/simitra"
-    },
-    {
-      "type": "produk",
-      "name": "Tabungan SIMPEL (Simpanan Pelajar)",
-      "description": "Tabungan anak untuk pelajar yang bertujuan untuk edukasi keuangan dan budaya menabung sejak dini.",
-      "features": [
-        "Setoran awal: Rp 5.000,-",
-        "Setoran selanjutnya: Minimal Rp 1.000,-",
-        "Saldo Minimal: Rp 5.000,-",
-        "Suku Bunga: Tabungan, Rp ≥ 1.000.000,-"
-      ],
-      "link": "https://hasamitra.com/simpel"
-    },
-    {
-      "type": "produk",
-      "name": "TabunganKu",
-      "description": "Tabungan untuk perorangan dengan persyaratan mudah dan ringan, untuk meningkatkan budaya menabung dan kesejahteraan.",
-      "features": [
-        "Setoran awal: Rp 10.000,-",
-        "Setoran selanjutnya: Tidak dibatasi",
-        "Saldo Minimal: Rp 10.000,-",
-        "Suku Bunga: Tabungan, Rp ≥ 50.000.000,-"
-      ],
-      "link": "https://hasamitra.com/tabunganku"
-    },
-    {
-      "type": "produk",
-      "name": "Si Deko",
-      "description": "Si Deko adalah produk deposito pada umumnya yang berbasis teknologi digital, sehingga semua layanannya dapat diakses secara online bahkan melalui smartphone.",
-      "features": [
-        "Bebas biaya administrasi bulanan",
-        "Deposito online ini tidak menggunakan bilyet deposito. BPR akan menerbitkan Confirmation Letter yang dikirim via e-mail ke nasabah sebagai bukti penempatan deposito",
-        "Dapat memilih perlakuan perpanjangan dan/atau pembayaran bunga seperti ARO (Automatic Roll Over), ARO + (ARO Pokok + Bunga), Non ARO",
-        "Dapat menggunakan Deposito Si Deko sebagai jaminan kredit (Back to Back Loan)"
-      ],
-      "link": "https://hasamitra.com/sideko"
-    },
-    {
-      "type": "layanan",
-      "name": "Kredit Pensiun",
-      "description": "Fasilitas kredit yang diberikan kepada para pensiunan PNS, TNI / POLRI, BUMN / BUMD  dengan tujuan pengunaan Kredit Pensiun ini dapat untuk konsumtif, investasi, atau modal kerja",
-      "features": [
-        "Dicover asuransi jiwa dan/atau kredit",
-        "Bebas pengenaan penalty untuk pelunasan dipercepat",
-        "Kredit Pensiun dengan pembayaran angsuran per bulan yang dapat memenuhi kebutuhan debitur baik primer maupun sekunder",
-        "Nasabah dapat menentukan jangka waktu pelunasan sesuai dengan kemampuan"
-      ],
-      "link": "https://hasamitra.com/kredit-pensiun"
-    },
-    {
-      "type": "layanan",
-      "name": "Hasamitra Mobile",
-      "description": "Mempermudah transaksi dan segala kebutuhan finansial Anda kapan saja dan dimana saja.",
-      "features": [
-        "Pembayaran Tagihan",
-        "Transfer dan Top Up Dana",
-        "Histori Transaksi dan Mutasi Rekening",
-        "Buka Tabungan dan Deposito",
-        "Mitracash"
-      ],
-      "link": "https://hasamitra.com/hasamitra-mobile"
-    }
-  ]
-}
+[
+  {
+    "type": "produk",
+    "name": "Tabungan Si Mitro",
+    "description": "Si Mitro adalah salah satu inovasi perbankan yang menawarkan kemudahan nasabah untuk melakukan proses pembukaan rekening tabungan, menabung hingga transfer uang dari rekening tabungan secara online, tanpa harus datang ke kantor bank.",
+    "features": [
+      "Rekening Tabungan Pasif dapat diaktivasi kembali oleh petugas bank saat nasabah akan melakukan transaksi",
+      "Tidak dikenakan biaya administrasi bulanan dan biaya atas rekening tabungan pasif (saldo dormant)",
+      "Nasabah dapat menggunakan Tabungan Si Mitro sebagai jaminan kredit (Back to Back Loan)"
+    ],
+    "link": "https://hasamitra.com/simitro"
+  },
+  {
+    "type": "produk",
+    "name": "Tabungan Si Mitra",
+    "description": "Si Mitra adalah tabungan yang dipersembahkan bagi masyarakat dan mitra usaha dalam mewujudkan kemudahan bertransaksi dengan mutu pelayanan yang baik sehingga dapat memberikan keuntungan yang maksimal",
+    "features": [
+      "Bebas biaya administrasi bulanan",
+      "Dapat fasilitas kartu ATM dan hasamitra mobile (mobile banking) dengan berbagai fitur layanan",
+      "Penghitungan bunga harian dan berlaku tiering (sesuai nominal)",
+      "Bunga khusus untuk nasabah yayasan dan/atau organisasi sosial ",
+      "Dapat dijadikan sebagai jaminan cash collateral"
+    ],
+    "link": "https://hasamitra.com/simitra"
+  },
+  {
+    "type": "produk",
+    "name": "Tabungan Si Mitra Bagi Rejeki",
+    "description": "Si Mitra Bagi Rejeki adalah tabungan Si Mitra dengan hadiah langsung dan diblokir sesuai dengan jangka waktu yang disepakati",
+    "features": [
+      "Bebas biaya administrasi bulanan",
+      "Nasabah akan mendapatkan hadiah langsung yang telah disediakan atau hadiah lain sesuai dengan kebutuhan nasabah berdasarkan nominal tabungan dan jangka waktu yang diambil",
+      "Nilai hadiah tabungan hanya berlaku untuk 1 (satu) rekening tabungan Si Mitra Bagi Rejeki dan tidak diperkenankan untuk mengakumulasi nilai hadiah berdasarkan CIF"
+    ],
+    "link": "https://hasamitra.com/simitra-bagi-rejeki"
+  }
+]
